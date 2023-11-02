@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://interactive-rating-component-main-frontend-project.vercel.app/)
-- Live Site URL: [Add live site URL here](https://github.com/faisgit/interactive-rating-component-main-frontend-project)
+- Live Site URL: [Add solution URL here](https://interactive-rating-component-main-frontend-project.vercel.app/)
+- Solution URL: [Add live site URL here](https://github.com/faisgit/interactive-rating-component-main-frontend-project)
 
 ## My process
 
