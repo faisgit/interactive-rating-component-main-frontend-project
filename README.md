@@ -18,7 +18,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the app depending on the device's screen size
 - See hover states for all interactive elements on the page
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add solution URL here](https://interactive-rating-component-main-frontend-project.vercel.app/)
-- Solution URL: [Add live site URL here](https://github.com/faisgit/interactive-rating-component-main-frontend-project)
+- Live Site URL: [Add live site URL here](https://interactive-rating-component-main-frontend-project.vercel.app/)
+- Solution URL: [Add solution URL here](https://github.com/faisgit/interactive-rating-component-main-frontend-project)
 
 ## My process
 
@@ -50,4 +50,4 @@ Users should be able to:
 
 ### What I learned
 
-From this project, I learned to use state hook and react-router-dom, and tailwind CSS
+Throughout this project, I gained valuable experience using state hooks, react-router-dom, and tailwind CSS.
