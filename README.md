@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/faisgit/interactive-rating-component-main-frontend-project))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://interactive-rating-component-main-frontend-project.vercel.app/))
 
 ## My process
 
@@ -50,4 +50,4 @@ Users should be able to:
 
 ### What I learned
 
-From this project I learn usestate hook and react router dom and tailwind css 
+From this project, I learned to use state hook and react-router-dom, and tailwind CSS 
